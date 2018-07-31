@@ -1,2 +1,0 @@
-# Sarada
-Bot using Heroku.
